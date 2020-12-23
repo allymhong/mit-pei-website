@@ -9,7 +9,9 @@ If you want to start editing the website or get the files on your computer, you 
 
 A good way to get started is this tutorial on Git/Github (https://youtu.be/SWYqp7iY_Tc). Here is also a cheat sheet of all the commands because there are so many, and it's nice to have at hand because it's better than memorizing everything haha: https://education.github.com/git-cheat-sheet-education.pdf.
 
-After installing Git, making a Github account, and linking this account to your computer through Terminal (all shown in tutorial), you would create a folder on your computer to store initialize this repository, clone the mit-pei-website repo, create your own branch, and edit the code! Before you initialize and clone the repo, make sure that you are in the folder you want these files to get replicated to.
+After installing Git, making a Github account, and linking this account to your computer through Terminal (all shown in tutorial), *PLEASE LET ME KNOW YOUR GITHUB USERNAME, SO I CAN ADD YOU THE REPO SO YOU CAN COLLABORATE DIRECTLY ON THIS REPO.* 
+
+Afterwards, you would clone the mit-pei-website repo, create your own branch, and edit the code! Before you initialize and clone the repo, make sure that you are in the folder you want these files to get replicated to.
 
 You would check which folder you are in by typing `pwd` and pressing enter on the Terminal. The path should print out. My Terminal would look like this, for example:
 ```
