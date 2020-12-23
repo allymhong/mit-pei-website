@@ -14,13 +14,12 @@ After installing Git, making a Github account, and linking this account to your 
 You would check which folder you are in by typing `pwd` and pressing enter on the Terminal. The path should print out. My Terminal would look like this, for example:
 ```
 (base) allygator@Gators-MacBook-Air mit-pei-website % pwd     #the command I typed
-/Users/allygator/Desktop/mit-pei-website                      # the output, which is the path of my current folder
+/Users/allygator/Desktop/                                     # the output, which is the path of my current folder
 ```
-So I'm in Desktop, in the mit-pei-website folder. Right where I want to be.
+So I'm in Desktop. Right where I would want my "mit-pei-website" repo to be cloned!
 
 To initialize and clone this repo, I would execute these commands on the Terminal:
 ```
-git init
 git clone https://github.com/allymhong/mit-pei-website.git    # this link should be found at the top of the Github page, under the "code" button. I normally
                                                               # use the http address.
 ```
