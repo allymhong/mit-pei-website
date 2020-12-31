@@ -58,7 +58,7 @@ git commit -m "changed title to PEI"    # so if you just typed "git commit", it 
 ```
 
 This is a good depiction of what's going on:
-![alt text](https://github.com/allymhong/mit-pei-website/main/git.png?raw=true)
+![alt text](https://github.com/allymhong/mit-pei-website/main/assets/img/git.png?raw=true)
 
 
 So finally! Our local git repository is tracking these committed changes/versions! How do I get these edits to my remote *GitHub* repository?
