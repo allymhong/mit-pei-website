@@ -31,7 +31,7 @@ And finally, if you want to create your own branch to create edits:
 git branch allygator                     # replace "allygator" with your desired branch name; this will create a new LOCAL branch
 git checkout allygator                   # this command will let you switch your workspace to that branch.
                                          # all further staging ("git add") and committing ("git commit") would take place in this branch
-git push allygator allygator             # pushing my local branch to a remote "allygator" branch, creating a remote allygator branch to push to
+git push origin allygator                # pushing my local branch to a remote "allygator" branch, creating a remote allygator branch to push to
 ```
 
 
