@@ -766,6 +766,10 @@ section {
 /*--------------------------------------------------------------
 # Courses
 --------------------------------------------------------------*/
+.box-space {
+  padding: 5px;
+}
+
 .courses .course-item {
   border-radius: 5px;
   border: 2px solid #eef0ef;
@@ -802,10 +806,9 @@ section {
   margin: 0;
 }
 
-.courses .course-content .price {
+.courses .course-content .spec {
   margin: 0;
-  font-weight: 700;
-  font-size: 18px;
+  font-size: 14px;
   color: #37423b;
 }
 
@@ -865,7 +868,7 @@ section {
   padding-top: 10px;
   font-size: 14px;
   font-style: italic;
-  color: #aaaaaa;
+  color: #383838;
 }
 
 .team .member .social {
