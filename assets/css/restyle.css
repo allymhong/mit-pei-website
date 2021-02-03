@@ -567,6 +567,10 @@ section {
   margin-bottom: 0;
 }
 
+figcaption {
+  font-style: italic;
+}
+
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
@@ -623,7 +627,7 @@ section {
 
 .counts .counters span {
   font-size: 48px;
-  display: block;
+  display: inline-block;
   color: #b059e3;
   font-weight: 700;
 }
@@ -635,6 +639,13 @@ section {
   font-size: 15px;
   font-weight: 600;
   color: #37423b;
+}
+
+#smaller {
+  font-size: 40px;
+  color: #b059e3;
+  font-weight: 500;
+  margin: 0;
 }
 
 /*--------------------------------------------------------------
@@ -815,6 +826,7 @@ section {
 .courses .trainer {
   padding-top: 15px;
   border-top: 1px solid #eef0ef;
+  justify-self:end;
 }
 
 .courses .trainer .trainer-profile img {
