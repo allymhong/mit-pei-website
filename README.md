@@ -1,6 +1,8 @@
 # mit-pei-website
 
-Hey PEI! I'm editing the MIT PEI website here, using the Bootstrap "Mentor" Template (info at https://bootstrapmade.com/demo/Mentor/).
+Official MIT PEI website GitHub!
+
+<!-- Hey PEI! I'm editing the MIT PEI website here, using the Bootstrap "Mentor" Template (info at https://bootstrapmade.com/demo/Mentor/).
 
 The home page of the website is the "index.html" file.
 As you can see on the top left, the main branch is the "main" branch. This will be where all final updates/changes will be pushed for the final version of the website. I'll be making my edits/changes on my own branch, the "allygator" branch. It's good practice to do so this way so that if I ever mess up on my own branch, I always have the main branch's files saved on the cloud to revert to.
@@ -9,7 +11,7 @@ If you want to start editing the website or get the files on your computer, you 
 
 A good way to get started is this tutorial on Git/Github (https://youtu.be/SWYqp7iY_Tc). Here is also a cheat sheet of all the commands because there are so many, and it's nice to have at hand because it's better than memorizing everything haha: https://education.github.com/git-cheat-sheet-education.pdf.
 
-After installing Git, making a Github account, and linking this account to your computer through Terminal (all shown in tutorial), *PLEASE LET ME KNOW YOUR GITHUB USERNAME, SO I CAN ADD YOU THE REPO SO YOU CAN COLLABORATE DIRECTLY ON THIS REPO.* 
+After installing Git, making a Github account, and linking this account to your computer through Terminal (all shown in tutorial), *PLEASE LET ME KNOW YOUR GITHUB USERNAME, SO I CAN ADD YOU THE REPO SO YOU CAN COLLABORATE DIRECTLY ON THIS REPO.*
 
 Afterwards, you would clone the mit-pei-website repo, create your own branch, and edit the code! Before you initialize and clone the repo, make sure that you are in the folder you want these files to get replicated to.
 
@@ -68,7 +70,7 @@ git pull origin allygator               # make sure I have all the most recent v
 git push origin allygator               # push my version and changes to the remote allygator branch
 ```
 
-It's also good practice to 
+It's also good practice to
 ```
 git fetch
 ```
@@ -83,4 +85,4 @@ git merge allygator                     # merge the branch you've been working o
                                         # merging, which should be figured out through GitHub
 ```
 
-Thanks for reading thus far :) and sorry (again) for any confusions I may have caused from my wack tutorial lolol. The Git cheatsheet I linked to above should help with all of the functions necessary with Git! Thanks for reading :)
+Thanks for reading thus far :) and sorry (again) for any confusions I may have caused from my wack tutorial lolol. The Git cheatsheet I linked to above should help with all of the functions necessary with Git! Thanks for reading :) -->
