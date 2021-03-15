@@ -998,6 +998,11 @@ figcaption {
 /*--------------------------------------------------------------
 # Course Details
 --------------------------------------------------------------*/
+
+.course-details {
+  padding-top: 100px;
+}
+
 .course-details h3 {
   font-size: 24px;
   margin: 30px 0 15px 0;
