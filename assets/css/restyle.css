@@ -115,6 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
+  /* background: #b059e3; */
   background: #fff;
   transition: all 0.5s;
   z-index: 997;
@@ -1005,6 +1006,18 @@ figcaption {
   padding-bottom: 10px;
 }
 
+.course-details h2{
+  font-size: 30px;
+  margin: 0;
+  font-weight: 700;
+  position: relative;
+}
+
+.course-details p {
+  font-size: 18px;
+  /* line-height: 1.5px; */
+}
+
 .course-details h3:before {
   content: '';
   position: absolute;
@@ -1054,14 +1067,14 @@ figcaption {
 --------------------------------------------------------------*/
 .events .card {
   border: 0;
-  padding: 0 30px;
+  padding: 0 10px;
   margin-bottom: 60px;
   position: relative;
 }
 
 .events .card-img {
-  width: calc(100% + 60px);
-  margin-left: -30px;
+  /* width: calc(100% + 60px); */
+  /* margin-left: -30px; */
   overflow: hidden;
   z-index: 9;
   border-radius: 0;
@@ -1078,7 +1091,7 @@ figcaption {
   border-top: 4px solid #fff;
   padding: 30px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-  margin-top: -60px;
+  /* margin-top: -60px; */
   transition: 0.3s;
 }
 
