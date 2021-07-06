@@ -2,7 +2,7 @@
 
 Official MIT PEI website GitHub!
 
-<!-- Hey PEI! I'm editing the MIT PEI website here, using the Bootstrap "Mentor" Template (info at https://bootstrapmade.com/demo/Mentor/).
+Hey PEI! I'm editing the MIT PEI website here, using the Bootstrap "Mentor" Template (info at https://bootstrapmade.com/demo/Mentor/).
 
 The home page of the website is the "index.html" file.
 As you can see on the top left, the main branch is the "main" branch. This will be where all final updates/changes will be pushed for the final version of the website. I'll be making my edits/changes on my own branch, the "allygator" branch. It's good practice to do so this way so that if I ever mess up on my own branch, I always have the main branch's files saved on the cloud to revert to.
@@ -85,4 +85,4 @@ git merge allygator                     # merge the branch you've been working o
                                         # merging, which should be figured out through GitHub
 ```
 
-Thanks for reading thus far :) and sorry (again) for any confusions I may have caused from my wack tutorial lolol. The Git cheatsheet I linked to above should help with all of the functions necessary with Git! Thanks for reading :) -->
+Thanks for reading thus far :) and sorry (again) for any confusions I may have caused from my wack tutorial lolol. The Git cheatsheet I linked to above should help with all of the functions necessary with Git! Thanks for reading :)
